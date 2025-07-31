@@ -1,0 +1,339 @@
+[
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "AddItem",
+    "RelativePath": "api/AppAPI/additem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "MyAppAPI.Models.InfoTable",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "GetAllImages",
+    "RelativePath": "api/AppAPI/all-images",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "GetAllPendingLeaveRequests",
+    "RelativePath": "api/AppAPI/allLeavesforadmin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "ApproveLeaveRequest",
+    "RelativePath": "api/AppAPI/approve-leave-admin/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "DeleteImage",
+    "RelativePath": "api/AppAPI/delete-image/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "DeleteProfileImage",
+    "RelativePath": "api/AppAPI/delete-profile-image/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "DeleteItem",
+    "RelativePath": "api/AppAPI/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "GetAll",
+    "RelativePath": "api/AppAPI/details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "GetProfileImageById",
+    "RelativePath": "api/AppAPI/get-profile-image/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "LoginUser",
+    "RelativePath": "api/AppAPI/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "GetMyLeaves",
+    "RelativePath": "api/AppAPI/my-leaves-user",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/AppAPI/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "USER",
+        "Type": "MyAppAPI.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MyAppAPI.Models.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "RejectLeaveRequest",
+    "RelativePath": "api/AppAPI/rejectleave/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "CreateLeaveRequest",
+    "RelativePath": "api/AppAPI/requestLeaveApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MyAppAPI.Models.LeaveRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/AppAPI/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MyAppAPI.Models.ResetPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "SendOtp",
+    "RelativePath": "api/AppAPI/send-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MyAppAPI.Models.OtpRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "UpdateItem",
+    "RelativePath": "api/AppAPI/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "item",
+        "Type": "MyAppAPI.Models.InfoTable",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "UploadImage",
+    "RelativePath": "api/AppAPI/upload-image",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "UploadProfileImage",
+    "RelativePath": "api/AppAPI/upload-profile-image",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "GetAllUserInfo",
+    "RelativePath": "api/AppAPI/user-infowithprofileimagenameandrole",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyAppAPI.Controllers.AppAPIController",
+    "Method": "VerifyOtp",
+    "RelativePath": "api/AppAPI/verify-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MyAppAPI.Models.VerifyOtpDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

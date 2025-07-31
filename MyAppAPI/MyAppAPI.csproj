@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Images\00dfcd10-8f57-4a36-ba95-bc5af98f30ac.jpg" />
+    <Content Remove="wwwroot\Images\6c0966ef-8da9-4de2-8b48-26e53e5ffc72.jpg" />
+    <Content Remove="wwwroot\Images\95c510d5-c565-4d4c-9ac0-eee337c7eb72.jpg" />
+    <Content Remove="wwwroot\Images\f4f206d0-68c3-4d48-b4bf-e0fd0d3e8ebb.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.36" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.36">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.36" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.36">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\00dfcd10-8f57-4a36-ba95-bc5af98f30ac.jpg" />
+    <None Include="wwwroot\Images\6c0966ef-8da9-4de2-8b48-26e53e5ffc72.jpg" />
+    <None Include="wwwroot\Images\95c510d5-c565-4d4c-9ac0-eee337c7eb72.jpg" />
+    <None Include="wwwroot\Images\f4f206d0-68c3-4d48-b4bf-e0fd0d3e8ebb.jpg" />
+  </ItemGroup>
+
+</Project>

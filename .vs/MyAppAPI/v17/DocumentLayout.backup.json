@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|c:\\users\\rishabh\\source\\repos\\myappapi\\myappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|solutionrelative:myappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|c:\\users\\rishabh\\source\\repos\\myappapi\\myappapi\\controllers\\appapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|solutionrelative:myappapi\\controllers\\appapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|c:\\users\\rishabh\\source\\repos\\myappapi\\myappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|solutionrelative:myappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|c:\\users\\rishabh\\source\\repos\\myappapi\\myappapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|solutionrelative:myappapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|c:\\users\\rishabh\\source\\repos\\myappapi\\myappapi\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|solutionrelative:myappapi\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|c:\\users\\rishabh\\source\\repos\\myappapi\\myappapi\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|solutionrelative:myappapi\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|c:\\users\\rishabh\\source\\repos\\myappapi\\myappapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|solutionrelative:myappapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|c:\\users\\rishabh\\source\\repos\\myappapi\\myappapi\\models\\infotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|solutionrelative:myappapi\\models\\infotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|c:\\users\\rishabh\\source\\repos\\myappapi\\myappapi\\myappapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|solutionrelative:myappapi\\myappapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|c:\\users\\rishabh\\source\\repos\\myappapi\\myappapi\\models\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|solutionrelative:myappapi\\models\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|c:\\users\\rishabh\\source\\repos\\myappapi\\myappapi\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|solutionrelative:myappapi\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|c:\\users\\rishabh\\source\\repos\\myappapi\\myappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A4B13E1-BA2E-4B0E-8C37-F68F9B505333}|MyAppAPI\\MyAppAPI.csproj|solutionrelative:myappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Controllers\\AppAPIController.cs",
+              "RelativeDocumentMoniker": "MyAppAPI\\Controllers\\AppAPIController.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Controllers\\AppAPIController.cs",
+              "RelativeToolTip": "MyAppAPI\\Controllers\\AppAPIController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:47:15.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyAppAPI.http",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\MyAppAPI.http",
+              "RelativeDocumentMoniker": "MyAppAPI\\MyAppAPI.http",
+              "ToolTip": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\MyAppAPI.http",
+              "RelativeToolTip": "MyAppAPI\\MyAppAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-22T15:37:48.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "MyAppAPI\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\UserDto.cs",
+              "RelativeToolTip": "MyAppAPI\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:14:28.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InfoTable.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\InfoTable.cs",
+              "RelativeDocumentMoniker": "MyAppAPI\\Models\\InfoTable.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\InfoTable.cs",
+              "RelativeToolTip": "MyAppAPI\\Models\\InfoTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T03:36:27.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MyAppAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\appsettings.json",
+              "RelativeToolTip": "MyAppAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T05:23:11.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "MyAppAPI\\Models\\MyDBContext.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\MyDBContext.cs",
+              "RelativeToolTip": "MyAppAPI\\Models\\MyDBContext.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:03:42.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MyAppAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\User.cs",
+              "RelativeToolTip": "MyAppAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:54:06.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyAppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Program.cs",
+              "RelativeToolTip": "MyAppAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:25:43.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OtpVerification.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\OtpVerification.cs",
+              "RelativeDocumentMoniker": "MyAppAPI\\Models\\OtpVerification.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\OtpVerification.cs",
+              "RelativeToolTip": "MyAppAPI\\Models\\OtpVerification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:11:26.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "MyAppAPI\\Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "MyAppAPI\\Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:52:37.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "MyAppAPI\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Models\\Image.cs",
+              "RelativeToolTip": "MyAppAPI\\Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T04:15:30.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyAppAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rishabh\\source\\repos\\MyAppAPI\\MyAppAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyAppAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T12:19:11.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
